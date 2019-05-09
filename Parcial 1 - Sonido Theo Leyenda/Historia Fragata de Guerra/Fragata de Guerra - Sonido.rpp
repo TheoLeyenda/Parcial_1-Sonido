@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.975/x64" 1557355866
+<REAPER_PROJECT 0.1 "5.975/x64" 1557362387
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,7 +15,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 100 0 0
+  ZOOM 35.85960413809065 0 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 1
@@ -75,12 +75,378 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {A338BEF2-60EF-4A11-8C2C-E6AC42749CB2}
+    NAME "Gente hablando en interior 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A338BEF2-60EF-4A11-8C2C-E6AC42749CB2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.77 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7D61BF2E-DD9D-4B8D-AAE2-BE2042D90B25}
+      IID 1
+      NAME "Gente hablando en interior 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {799DF6D8-46AE-484B-8424-5C6CD703C60C}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Gente hablando en interior 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EE38BC58-AACD-433D-9D98-876DAAF9CA1E}
+      IID 6
+      NAME "Gente en panico 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5E13A65-89EB-4381-A26A-EA1DEC4E3231}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Gente en panico 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 13.5
+      SNAPOFFS 0
+      LENGTH 2.44897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6BAE56F5-9D83-4D78-BC06-2CFB24B45B07}
+      IID 10
+      NAME "Gente en panico 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20B14466-0A6B-4D8C-AE6C-0F2ECB29F091}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Gente en panico 1.mp3" 1
+      >
+    >
+  >
+  <TRACK {53BB1F28-8112-4045-BAEE-24E8C68AEA3B}
+    NAME "Explocion 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {53BB1F28-8112-4045-BAEE-24E8C68AEA3B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.6 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -0.808 0
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F8F59FE5-4453-4ADA-B981-D57D277ADAD5}
+      IID 5
+      NAME "Explocion 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {652900C7-A462-4782-986A-C187E318CF6F}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Explocion 1.mp3" 1
+      >
+    >
+  >
+  <TRACK {B55EBAB9-19C8-4B87-BF1E-4EC8934B963C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B55EBAB9-19C8-4B87-BF1E-4EC8934B963C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 13.5 0.39 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -0.832 0
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A91636DC-06DE-4CD9-B929-C2EF74CEBB2E}
+      IID 4
+      NAME "Explocion 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3993EF1-9C58-425D-871A-6E76B7B02E4B}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Explocion 1.mp3" 1
+      >
+    >
+  >
+  <TRACK {67DFC456-D0AF-4987-B8C3-A58C892E4FFD}
+    NAME "Alarma de alerta 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {67DFC456-D0AF-4987-B8C3-A58C892E4FFD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.21 0
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8053EE52-5DE4-443E-855E-9C05EC12D1B5}
+      IID 7
+      NAME "Alarma de alerta 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C09FEB38-71A5-41EC-9D0D-2B0EA52FD204}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Alarma de alerta 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 13.5
+      SNAPOFFS 0
+      LENGTH 2.44897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {185D167F-CFE0-4F90-85B4-FE02911B6A94}
+      IID 11
+      NAME "Alarma de alerta 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51EAAA9E-7EDD-41A3-ACDD-6CEC6748B4FF}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Alarma de alerta 1.mp3" 1
+      >
+    >
+  >
+  <TRACK {3AB600CF-AE6F-4ED9-B4D4-F610FE179AF9}
+    NAME "Fondo del mar 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3AB600CF-AE6F-4ED9-B4D4-F610FE179AF9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {24CCE15B-3B58-45DD-B3F3-6EC7092FBE56}
+      IID 13
+      NAME "Fondo del mar 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDAF4029-6DCC-4CF8-B973-9BEC03D0EF33}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Fondo del mar 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {08D2AB05-1804-4F68-B299-A27C9FD19433}
+      IID 17
+      NAME "Fondo del mar 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 30
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4107F15F-1F2A-494D-9EA4-2C6A3A0C2678}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Fondo del mar 2.mp3" 1
+      >
+    >
   >
 >
