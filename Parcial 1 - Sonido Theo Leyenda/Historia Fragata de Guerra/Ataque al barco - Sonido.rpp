@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.975/x64" 1557372816
+<REAPER_PROJECT 0.1 "5.975/x64" 1557412177
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
+  CURSOR 35
   ZOOM 26.31212289707326 0 0
   VZOOMEX 6
   USE_REC_CFG 0
@@ -301,7 +301,7 @@
       PT 0 0.922 0
     >
     <ITEM
-      POSITION 14.5
+      POSITION 15.5
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -587,6 +587,14 @@
       DEFSHAPE 0 -1 -1
       PT 29.5005 0.67 0
     >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 32.9995 1 0
+    >
   >
   <TRACK {AFF4C6D2-8F8E-477F-BECE-D71D68958615}
     NAME "Explocion 3"
@@ -611,14 +619,6 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <VOLENV2
-      ACT 1 -1
-      VIS 1 1 1
-      LANEHEIGHT 0 0
-      ARM 0
-      DEFSHAPE 0 -1 -1
-      PT 0 1 0
-    >
     <PANENV2
       ACT 1 -1
       VIS 1 1 1
@@ -637,14 +637,14 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {C6219823-1BC4-468A-A557-54E1C1671002}
-      IID 43
+      IGUID {6F6157DE-514F-44A0-B716-203CB5EFEBFD}
+      IID 68
       NAME "Explocion 3.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 2
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {0B51839E-6FE3-4016-8F6F-F7447054EDC7}
+      GUID {D0598F78-F6A1-4504-B414-93EEF6454C7A}
       <SOURCE MP3
         FILE "Sonidos a usar\Explocion 3.mp3" 1
       >
@@ -687,12 +687,12 @@
       LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
-      PT 30.5 1 0
+      PT 30.5 0.02 0
     >
     <ITEM
       POSITION 35
       SNAPOFFS 0
-      LENGTH 10.5
+      LENGTH 21.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -712,7 +712,7 @@
       >
     >
     <ITEM
-      POSITION 45.5
+      POSITION 56.5
       SNAPOFFS 0
       LENGTH 2.00501717440315
       LOOP 1
@@ -763,12 +763,13 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.51 0
-      PT 37 0.56 0
-      PT 42 0 0 0 1
+      PT 0 1.09 0
+      PT 36 1.13444444 0
+      PT 41 0.5 0 0 1
+      PT 45.5005 0 0
     >
     <ITEM
-      POSITION 22
+      POSITION 25.5
       SNAPOFFS 0
       LENGTH 20
       LOOP 1
@@ -787,6 +788,178 @@
       GUID {31B395F9-C9E1-4BB4-880C-7F067D97E0B9}
       <SOURCE MP3
         FILE "Sonidos a usar\Sonidos de jets + Descarga  Speed Brody.mp3" 1
+      >
+    >
+  >
+  <TRACK {A59B8AD6-8172-44BE-A9AF-A56962781E5B}
+    NAME "Sonidos de guerra"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A59B8AD6-8172-44BE-A9AF-A56962781E5B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.32 0
+      PT 33 0.32 0
+      PT 33.5 0 0 0 1
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 13.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8348B328-8EF6-4575-B505-22934D6ADC1B}
+      IID 60
+      NAME "Sonidos de guerra.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B29B07E1-6212-42EF-9F62-FD8641627B6A}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Sonidos de guerra.mp3" 1
+      >
+    >
+  >
+  <TRACK {4A59ABDD-6C71-49C3-A270-D61222DE5452}
+    NAME "Pasos Metalicos y mas sonidos internos del barco"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4A59ABDD-6C71-49C3-A270-D61222DE5452}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1.05 0
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 10.77182305588457
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {551862A3-3D0C-4839-8CEF-595848D0CF47}
+      IID 64
+      NAME "Pasos Metalicos y mas sonidos internos del barco.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 96.31807485733133
+      PLAYRATE 2.24492409661875 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B045DEBB-5C08-4548-AA2A-AD8CEB61220D}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Pasos Metalicos y mas sonidos internos del barco.mp3" 1
+      >
+    >
+  >
+  <TRACK {9AC7928C-7BA3-485E-A255-5351036E6C31}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9AC7928C-7BA3-485E-A255-5351036E6C31}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 33 1 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 33 1 0
+    >
+    <ITEM
+      POSITION 33
+      SNAPOFFS 0
+      LENGTH 2.4503116237828
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C6219823-1BC4-468A-A557-54E1C1671002}
+      IID 43
+      NAME "Explocion 3.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B51839E-6FE3-4016-8F6F-F7447054EDC7}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Explocion 3.mp3" 1
       >
     >
   >
