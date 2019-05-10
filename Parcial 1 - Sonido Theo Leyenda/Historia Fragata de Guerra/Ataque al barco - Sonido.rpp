@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.973/x64" 1557439659
+<REAPER_PROJECT 0.1 "5.975/x64" 1557511955
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 26.31212289707327 0 0
+  CURSOR 57.5
+  ZOOM 26.31212289707328 0 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 1
@@ -112,20 +112,108 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.35 0
-      PT 4.4995 0.34800802 0
-      PT 8.4995 0.49542906 0
-      PT 8.5 0.3480078 0
-      PT 8.51761819 0.348 0
-      PT 9 0.77 0
-      PT 33.5 0.77 0
-      PT 37 0.505 0
-      PT 38.5 0.855 0
-      PT 40.5 0.635 0
-      PT 41.5 0 0 0 1
+      PT 22.9995 0.35 0
+      PT 31.9995 0.33698493 0
+      PT 32 0.35 0
+      PT 36.4995 0.34800802 0
+      PT 40.4995 0.49542906 0
+      PT 40.5 0.3480078 0
+      PT 40.51761819 0.348 0
+      PT 41 0.77 0
+      PT 65.5 0.77 0
+      PT 69 0.505 0
+      PT 70.5 0.855 0
+      PT 72.5 0.915 0
+      PT 73.5 0.55 0
+      PT 73.53978773 0.52 0
+      PT 74.14787246 0.52 0
+      PT 74.18587775 0.29166667 0
+      PT 74.26188835 0.29166667 0
+      PT 74.29989364 0.375 0
+      PT 74.37590423 0.375 0
+      PT 74.41390953 0.41666667 0
+      PT 74.52792541 0.54166667 0
+      PT 74.56593071 0.5625 0
+      PT 74.6419413 0.625 0
+      PT 74.79396248 0.70833333 0
+      PT 74.86997307 0.70833333 0
+      PT 74.94598366 0.75 0
+      PT 74.98398896 0.79166667 0
+      PT 75.28803132 0.79166667 0
+      PT 75.32603661 0.8125 0
+      PT 75.4020472 0.875 0
+      PT 76.01013193 0.875 0
+      PT 76.04813722 0.83333333 0
+      PT 76.16215311 0.83333333 0
+      PT 76.2001584 0.79166667 0
+      PT 76.2381637 0.79166667 0
+      PT 76.31417429 0.70833333 0
+      PT 76.42819018 0.70833333 0
+      PT 76.50420077 0.66666667 0
+      PT 76.61821665 0.66666667 0
+      PT 76.65622195 0.625 0
+      PT 76.77023783 0.625 0
+      PT 76.80824313 0.58333333 0
+      PT 76.88425372 0.58333333 0
+      PT 76.92225901 0.54166667 0
+      PT 76.96026431 0.54166667 0
+      PT 77.0362749 0.5 0
+      PT 77.18829608 0.5 0
+      PT 77.26430667 0.41666667 0
+      PT 77.34031726 0.41666667 0
+      PT 77.41632785 0.56166667 0
+      PT 78.78451848 0.56166667 0
+      PT 78.86052907 0.33333333 0
+      PT 78.89853437 0.33333333 0
+      PT 78.93653966 0.375 0
+      PT 79.08856085 0.375 0
+      PT 79.20257673 0.5 0
+      PT 79.35459791 0.5 0
+      PT 79.4306085 0.58333333 0
+      PT 79.65864027 0.58333333 0
+      PT 79.73465086 0.66666667 0
+      PT 80.34273559 0.66666667 0
+      PT 80.41874618 0.70833333 0
+      PT 80.45675147 0.75 0
+      PT 80.53276207 0.70833333 0
+      PT 80.57076736 0.69444444 0
+      PT 80.60877266 0.65972222 0
+      PT 80.68478325 0.54166667 0
+      PT 80.79879913 0.41666667 0
+      PT 80.91281502 0.29166667 0
+      PT 81.59691033 0.29166667 0
+      PT 81.67292092 0.41666667 0
+      PT 81.71092622 0.41666667 0
+      PT 81.74893151 0.45833333 0
+      PT 82.01496858 0.45833333 0
+      PT 82.09097917 0.20833333 0
+      PT 82.16698976 0.04166667 0
+      PT 82.20499506 0.04166667 0
+      PT 82.24300035 0.36 0
+      PT 82.88909037 0.36 0
+      PT 82.92709567 0.08333333 0
+      PT 83.00310626 0.33333333 0
+      PT 83.19313273 0.54166667 0
+      PT 83.26914333 0.58333333 0
+      PT 83.38315921 0.625 0
+      PT 83.4971751 0.70833333 0
+      PT 83.76321216 0.70833333 0
+      PT 83.95323864 0.5 0
+      PT 84.02924923 0.45833333 0
+      PT 84.06725453 0.45833333 0
+      PT 84.10525982 0.41666667 0
+      PT 84.18127041 0.33333333 0
+      PT 84.59932866 0.33333333 0
+      PT 84.67533925 0.375 0
+      PT 84.78935514 0.5 0
+      PT 84.82736043 0.5625 0
+      PT 84.90337102 0.79166667 0
+      PT 84.94137632 0.83333333 0
+      PT 85 0.83333333 0
+      PT 85.0005 0.27 0
     >
     <ITEM
-      POSITION 0
+      POSITION 32
       SNAPOFFS 0
       LENGTH 8.5
       LOOP 1
@@ -133,7 +221,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {7D61BF2E-DD9D-4B8D-AAE2-BE2042D90B25}
       IID 1
       NAME "Gente hablando en interior 1.mp3"
@@ -147,7 +235,7 @@
       >
     >
     <ITEM
-      POSITION 8.5
+      POSITION 40.5
       SNAPOFFS 0
       LENGTH 9
       LOOP 1
@@ -155,7 +243,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {EE38BC58-AACD-433D-9D98-876DAAF9CA1E}
       IID 6
       NAME "Gente en panico 1.mp3"
@@ -169,15 +257,15 @@
       >
     >
     <ITEM
-      POSITION 17.5
+      POSITION 49.5
       SNAPOFFS 0
-      LENGTH 24
+      LENGTH 35.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {6BAE56F5-9D83-4D78-BC06-2CFB24B45B07}
       IID 10
       NAME "Gente en panico 1.mp3"
@@ -237,9 +325,13 @@
       PT 27.5 0.922 0
       PT 30.5 0.922 0
       PT 30.5005 1 0
+      PT 40.4995 1 0
+      PT 40.5 -0.97 0
+      PT 43.5 -0.97 0
+      PT 43.5005 1 0
     >
     <ITEM
-      POSITION 8.5
+      POSITION 40.5
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -247,7 +339,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {F8F59FE5-4453-4ADA-B981-D57D277ADAD5}
       IID 5
       NAME "Explocion 1.mp3"
@@ -301,7 +393,7 @@
       PT 0 -1 0
     >
     <ITEM
-      POSITION 15.5
+      POSITION 47.5
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -309,7 +401,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {C0811EDC-D0AF-40E1-A50B-16EB2D636B39}
       IID 48
       NAME "Explocion 1.mp3"
@@ -355,22 +447,24 @@
       PT 0 0.29 0
       PT 5.4995 0.29 0
       PT 9.4995 0.17953433 0
-      PT 9.5 0.29 0
-      PT 16.5 0.29 0
-      PT 17 0.17 0
-      PT 17.4995 0.17 0
-      PT 17.5 0.29 0
-      PT 24.5 0.29 0
-      PT 25 0.17 0
-      PT 25.4995 0.17 0
-      PT 25.5 0.29 0
-      PT 32.5 0.29 0
-      PT 33 0.17 0
-      PT 33.5 0.17 0
-      PT 33.5005 0 0
+      PT 32.4995 0.00748777 0
+      PT 41.4995 0.00493994 0
+      PT 41.5 0.29 0
+      PT 48.5 0.29 0
+      PT 49 0.17 0
+      PT 49.4995 0.17 0
+      PT 49.5 0.29 0
+      PT 56.5 0.29 0
+      PT 57 0.17 0
+      PT 57.4995 0.17 0
+      PT 57.5 0.29 0
+      PT 64.5 0.29 0
+      PT 65 0.17 0
+      PT 65.5 0.17 0
+      PT 65.5005 0 0
     >
     <ITEM
-      POSITION 9.5
+      POSITION 41.5
       SNAPOFFS 0
       LENGTH 24
       LOOP 1
@@ -378,7 +472,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {3272BA8B-9A0F-4070-9356-63D8038965DE}
       IID 44
       NAME "Alarma de alerta 1.mp3"
@@ -421,10 +515,10 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 32 0.74 0
+      PT 64 0.74 0
     >
     <ITEM
-      POSITION 0
+      POSITION 32
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -432,7 +526,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {6404DB5F-E4B6-4C93-8994-0D1A1216A846}
       IID 35
       NAME "Fondo del mar 2.mp3"
@@ -446,7 +540,7 @@
       >
     >
     <ITEM
-      POSITION 3
+      POSITION 35
       SNAPOFFS 0
       LENGTH 3
       LOOP 1
@@ -454,7 +548,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {46ACE6E1-33E4-4588-8FE2-5E4AD1508627}
       IID 47
       NAME "Fondo del mar 2.mp3"
@@ -468,7 +562,7 @@
       >
     >
     <ITEM
-      POSITION 6
+      POSITION 38
       SNAPOFFS 0
       LENGTH 13
       LOOP 1
@@ -476,7 +570,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {2F1A9638-D134-4D5E-A29C-7B06C6872020}
       IID 46
       NAME "Fondo del mar 2.mp3"
@@ -490,7 +584,7 @@
       >
     >
     <ITEM
-      POSITION 19
+      POSITION 51
       SNAPOFFS 0
       LENGTH 13
       LOOP 1
@@ -498,7 +592,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {BF349915-9919-42B9-A567-6A536F15887E}
       IID 21
       NAME "Fondo del mar 2.mp3"
@@ -512,7 +606,7 @@
       >
     >
     <ITEM
-      POSITION 19
+      POSITION 51
       SNAPOFFS 0
       LENGTH 0.00001
       LOOP 1
@@ -520,13 +614,13 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {99CC15C4-D8B6-4FFA-9080-C14848D4CFF3}
       IID 22
       NAME "Fondo del mar 2.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 14.5
-      PLAYRATE 1 1 0 -1 0 0.0025
+      PLAYRATE 0.99999999968259 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {9F2C7092-9E7D-41C2-AC8F-8861596DA45C}
       <SOURCE MP3
@@ -534,7 +628,7 @@
       >
     >
     <ITEM
-      POSITION 32
+      POSITION 64
       SNAPOFFS 0
       LENGTH 1.5
       LOOP 1
@@ -542,7 +636,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {24CCE15B-3B58-45DD-B3F3-6EC7092FBE56}
       IID 13
       NAME "Fondo del mar 2.mp3"
@@ -628,15 +722,15 @@
       PT 0 0.08 0
     >
     <ITEM
-      POSITION 33
+      POSITION 65
       SNAPOFFS 0
-      LENGTH 2.4503116237828
+      LENGTH 2.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {6F6157DE-514F-44A0-B716-203CB5EFEBFD}
       IID 68
       NAME "Explocion 3.mp3"
@@ -690,7 +784,7 @@
       PT 30.5 0.02 0
     >
     <ITEM
-      POSITION 35
+      POSITION 67
       SNAPOFFS 0
       LENGTH 21.5
       LOOP 1
@@ -698,7 +792,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {40411481-BB4E-4BB4-B1A7-B210C506A301}
       IID 49
       NAME "Hundimiento del barco 1.mp3"
@@ -712,7 +806,7 @@
       >
     >
     <ITEM
-      POSITION 56.5
+      POSITION 88.5
       SNAPOFFS 0
       LENGTH 2.00501717440315
       LOOP 1
@@ -720,7 +814,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {39BD0288-FEDC-45AB-AAC5-D940C34D2840}
       IID 50
       NAME "Hundimiento del barco 1.mp3"
@@ -764,12 +858,16 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 1.09 0
-      PT 36 1.13444444 0
-      PT 41 0.5 0 0 1
+      PT 25.4995 1.12148086 0
       PT 45.5005 0 0
+      PT 57.4995 0 0
+      PT 57.5 1.12148148 0
+      PT 68 1.13444444 0
+      PT 73 0.5 0 0 1
+      PT 77.5005 0 0
     >
     <ITEM
-      POSITION 25.5
+      POSITION 57.5
       SNAPOFFS 0
       LENGTH 20
       LOOP 1
@@ -777,7 +875,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {27696ECF-870F-42A1-B2D1-BA8D4C0C2F79}
       IID 51
       NAME "Sonidos de jets + Descarga  Speed Brody.mp3"
@@ -820,12 +918,16 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.32 0
-      PT 33 0.32 0
-      PT 33.5 0 0 0 1
+      PT 0 0.5 0
+      PT 19.9995 0.5 0
+      PT 33.5005 0 0
+      PT 51.9995 0 0
+      PT 52 0.5 0
+      PT 65 0.5 0
+      PT 65.5005 0 0
     >
     <ITEM
-      POSITION 20
+      POSITION 52
       SNAPOFFS 0
       LENGTH 13.5
       LOOP 1
@@ -833,7 +935,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {8348B328-8EF6-4575-B505-22934D6ADC1B}
       IID 60
       NAME "Sonidos de guerra.mp3"
@@ -879,15 +981,15 @@
       PT 0 1.05 0
     >
     <ITEM
-      POSITION 9
+      POSITION 41
       SNAPOFFS 0
-      LENGTH 10.77182305588457
+      LENGTH 10.77182305588456
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {551862A3-3D0C-4839-8CEF-595848D0CF47}
       IID 64
       NAME "Pasos Metalicos y mas sonidos internos del barco.mp3"
@@ -930,26 +1032,18 @@
       LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
-      PT 33 1 0
-    >
-    <PANENV2
-      ACT 1 -1
-      VIS 1 1 1
-      LANEHEIGHT 0 0
-      ARM 0
-      DEFSHAPE 0 -1 -1
-      PT 33 0 0
+      PT 38.72497756 0.69 0
     >
     <ITEM
-      POSITION 33
+      POSITION 64.5
       SNAPOFFS 0
-      LENGTH 2.4503116237828
+      LENGTH 2.45031162378278
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {C6219823-1BC4-468A-A557-54E1C1671002}
       IID 43
       NAME "Explocion 3.mp3"
@@ -962,5 +1056,184 @@
         FILE "Sonidos a usar\Explocion 3.mp3" 1
       >
     >
+  >
+  <TRACK {5F076659-53C7-4FA3-B7A0-B2C9F5F0DA71}
+    NAME "Hombre cayendo 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5F076659-53C7-4FA3-B7A0-B2C9F5F0DA71}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 33 0.5 0
+      PT 33.44415984 0.49974252 0
+      PT 56.44415984 0.82515269 0
+      PT 61.44415984 1.05040242 0
+      PT 65.44415984 1.18524256 0
+      PT 65.44465984 0.49974223 0
+      PT 67.5 0.49855073 0
+      PT 67.5 0.54826087 0 0 1
+      PT 85.30710908 0.78367938 0
+      PT 85.30760908 1.72 0
+      PT 90.4995 1.72 0
+      PT 90.5 0.85233189 0
+      PT 99.40462472 0.97005529 0
+      PT 99.40512472 1.72 0
+    >
+    <ITEM
+      POSITION 65.44465984148636
+      SNAPOFFS 0
+      LENGTH 2.28031771646498
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {8C1392F4-0FB1-4B98-B018-257233ADECAB}
+      IID 79
+      NAME "Hombre cayendo 3.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.44465984148635
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27C0F23D-7063-425C-9376-9E87AEE826D2}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Hombre cayendo 3.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 67.72497755795133
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {07775D39-D0BE-411A-98B8-C8A6088056DD}
+      IID 80
+      NAME "Salpicar agua.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BE38B23-5A57-4E92-A0AC-0268DBFB158D}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Salpicar agua.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 70.72497755795133
+      SNAPOFFS 0
+      LENGTH 14.58213151927438
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {F99D60A1-64FD-4382-A945-F9DEDD5F0AF2}
+      IID 84
+      NAME "Muerte ahogado.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A90A3D7-B302-47A8-B637-CF91B7218ADA}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Muerte ahogado.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 90.5
+      SNAPOFFS 0
+      LENGTH 8.90512471655329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {504804AB-A669-4AE8-A316-A3CEC80BFA9F}
+      IID 86
+      NAME Despertador.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {789571E9-A0FC-47E7-870D-5317F91722CE}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Despertador.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 99.40512471655329
+      SNAPOFFS 0
+      LENGTH 1.09487528344671
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {5D363FB4-A9E9-46C9-8BB6-B273FC89A6C3}
+      IID 87
+      NAME "Respiración hombre aterrado - efecto de sonido.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96F59CFD-6320-4D5B-A100-36F7E4A71C14}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Respiración hombre aterrado - efecto de sonido.mp3" 1
+      >
+    >
+  >
+  <TRACK {CB3750DD-6C16-44C0-966C-2696A2509FE7}
+    NAME "Muerte ahogado"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CB3750DD-6C16-44C0-966C-2696A2509FE7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
   >
 >
