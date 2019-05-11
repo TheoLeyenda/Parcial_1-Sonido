@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.975/x64" 1557531377
+<REAPER_PROJECT 0.1 "5.975/x64" 1557550741
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,7 +15,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 18.49870245380707 2322 0
+  ZOOM 18.49870245380707 0 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\Theo\Desktop\Parcial_1-Sonido\Parcial 1 - Sonido Theo Leyenda\Historia Fragata de Guerra\Theo Leyenda TP1 - Sonido.mp3"
+  RENDER_FILE "C:\Users\Theo\Desktop\Parcial_1-Sonido\Parcial 1 - Sonido Theo Leyenda\Historia Fragata de Guerra\Theo Leyenda TP1 - Sonido V3.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -112,10 +112,12 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 65.5 0.16900401 0
-      PT 66.5 0.37800802 0
-      PT 74 0.47945033 0
-      PT 85.08704889 0.38760724 0 0 1
+      PT 63.5 0 0
+      PT 65 0.39800802 0 0 1
+      PT 73.5 0.47945033 0
+      PT 73.5005 0.45547628 0
+      PT 74.0005 0.47944619 0
+      PT 85.08704889 0.38760724 0
       PT 85.5 0.37206892 0
       PT 89 0.4224311 0
       PT 90 0.42233795 0
@@ -264,20 +266,20 @@
       PT 168.5005 0.27 0
     >
     <ITEM
-      POSITION 65.5
+      POSITION 63.5
       SNAPOFFS 0
-      LENGTH 8.5
+      LENGTH 10.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {7D61BF2E-DD9D-4B8D-AAE2-BE2042D90B25}
       IID 1
       NAME "Gente hablando en interior 1.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 1.5
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {799DF6D8-46AE-484B-8424-5C6CD703C60C}
@@ -554,31 +556,55 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 65.5 0 0
-      PT 66.5 0.76 0 0 1
-      PT 97.5 0.74 0
+      PT 45.5 0.75677419 0
+      PT 58.5 0.74884457 0
+      PT 58.5005 0.75677387 0
+      PT 71.4995 0.74838742 0
+      PT 84.5005 0.74884427 0
       PT 99 0.74 0
       PT 99.0005 0.64512745 0
       PT 103.5005 0.74 0
     >
     <ITEM
-      POSITION 65.5
+      POSITION 56
       SNAPOFFS 0
-      LENGTH 6
+      LENGTH 2.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {46ACE6E1-33E4-4588-8FE2-5E4AD1508627}
-      IID 47
+      IGUID {2F1A9638-D134-4D5E-A29C-7B06C6872020}
+      IID 46
       NAME "Fondo del mar 2.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 11.5
+      SOFFS 40.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {810A3830-C2FA-48B8-B449-9DFF67F33B78}
+      GUID {269249CF-58C9-4AF6-8F59-EE2630585CC0}
+      <SOURCE MP3
+        FILE "Sonidos a usar\Fondo del mar 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 58.5
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6C11E59C-B20D-4855-B816-A36EBA12BB0B}
+      IID 114
+      NAME "Fondo del mar 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 30
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A6CB4BE-2831-4563-85FA-8C9016FB9F0D}
       <SOURCE MP3
         FILE "Sonidos a usar\Fondo del mar 2.mp3" 1
       >
@@ -593,14 +619,14 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {2F1A9638-D134-4D5E-A29C-7B06C6872020}
-      IID 46
+      IGUID {08BA3919-9C7E-41FC-B552-95A607EA076F}
+      IID 113
       NAME "Fondo del mar 2.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 30
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {269249CF-58C9-4AF6-8F59-EE2630585CC0}
+      GUID {E41AB0F3-24F4-44BC-B26F-4694DA32AFB7}
       <SOURCE MP3
         FILE "Sonidos a usar\Fondo del mar 2.mp3" 1
       >
@@ -1120,7 +1146,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -1149,11 +1175,19 @@
       PT 101 0.49855073 0
       PT 101 0.54826087 0
       PT 118.5 0.83 0 0 1
-      PT 123.9995 1.72 0
-      PT 124.9995 1.72 0
-      PT 125 0.85233189 0
-      PT 133.90462472 0.97005529 0
-      PT 133.90512472 1.72 0
+      PT 119.9995 1.07266842 0
+      PT 120.9995 1.13739511 0
+      PT 124.00451717 1.26428209 0
+      PT 124.00501717 0.85900846 0
+      PT 131.89960754 0.96337872 0
+      PT 132.4995 1.22315217 0
+      PT 132.5 0.96999557 0
+      PT 132.50451717 0.97005529 0
+      PT 132.50501718 1.72 0
+      PT 133.59989246 1.72 0
+      PT 133.60039246 1.35514386 0
+      PT 134.10039246 1.67562958 0
+      PT 135.5005 1.72 0
     >
     <ITEM
       POSITION 98.94465984148636
@@ -1222,7 +1256,7 @@
       >
     >
     <ITEM
-      POSITION 125
+      POSITION 123.5
       SNAPOFFS 0
       LENGTH 8.9051247165533
       LOOP 1
@@ -1230,7 +1264,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {504804AB-A669-4AE8-A316-A3CEC80BFA9F}
       IID 86
       NAME Despertador.mp3
@@ -1244,20 +1278,20 @@
       >
     >
     <ITEM
-      POSITION 133.9051247165533
+      POSITION 132.5
       SNAPOFFS 0
-      LENGTH 1.0948752834467
+      LENGTH 1.09989245784985
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {5D363FB4-A9E9-46C9-8BB6-B273FC89A6C3}
       IID 87
       NAME "Respiración hombre aterrado - efecto de sonido.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 0.5
+      SOFFS 0.49498282559685
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {96F59CFD-6320-4D5B-A100-36F7E4A71C14}
@@ -1322,12 +1356,12 @@
       PT 0 0 0
       PT 2.5 0.5 0
       PT 52 0.5 0
-      PT 65 0.02 0 0 1
+      PT 63.5 0.01 0 0 1
     >
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 65
+      LENGTH 63.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -1458,12 +1492,12 @@
       PT 35 0.88 0
       PT 42.5 0.888125 0
       PT 43 0.84 0
-      PT 65 0.23 0 0 1
+      PT 63.5 0.03 0 0 1
     >
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 65
+      LENGTH 63.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -1668,6 +1702,16 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 52.5 1 0
+      PT 55 0.03 0 0 1
+    >
     <ITEM
       POSITION 42
       SNAPOFFS 0
@@ -1720,12 +1764,16 @@
       LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
-      PT 55 0.78 0
+      PT 52 0 0
+      PT 54.5 0 0
+      PT 56 0.78 0 0 1
+      PT 62 0.78 0
+      PT 63.5 0 0
     >
     <ITEM
-      POSITION 55
+      POSITION 54.5
       SNAPOFFS 0
-      LENGTH 10.5
+      LENGTH 9
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -1736,7 +1784,7 @@
       IID 99
       NAME "Sonido de Reloj Tic Tac Manecillas de Reloj  Efecto de Sonido  ticking Clock Sound Effect.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 13
+      SOFFS 14
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {E2F6AAC8-9807-457D-99AC-4AB351B028D5}
