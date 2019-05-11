@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.975/x64" 1557550741
+<REAPER_PROJECT 0.1 "5.975/x64" 1557551321
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 18.49870245380707 0 0
+  CURSOR 50
+  ZOOM 18.49870245380707 1112 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 1
@@ -1766,8 +1766,8 @@
       DEFSHAPE 0 -1 -1
       PT 52 0 0
       PT 54.5 0 0
-      PT 56 0.78 0 0 1
-      PT 62 0.78 0
+      PT 56 0.49 0 0 1
+      PT 62 0.49 0
       PT 63.5 0 0
     >
     <ITEM
@@ -1789,7 +1789,7 @@
       CHANMODE 0
       GUID {E2F6AAC8-9807-457D-99AC-4AB351B028D5}
       <SOURCE MP3
-        FILE "Sonidos a usar\Sonido de Reloj Tic Tac Manecillas de Reloj  Efecto de Sonido  ticking Clock Sound Effect.mp3" 1
+        FILE "Sonidos a usar\Sonido de Reloj Tic Tac.mp3" 1
       >
     >
   >
